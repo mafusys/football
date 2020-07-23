@@ -1,4 +1,5 @@
 ## Änderung Dockerfile - git Übung hotfix
+## Konflikt simulieren von Master aus
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE

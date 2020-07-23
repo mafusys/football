@@ -1,4 +1,5 @@
 ## Änderung Dockerfile - git Übung hotfix
+## Noch eine Änderung um Konflikt zu simulieren
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE

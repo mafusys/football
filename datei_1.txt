@@ -1,2 +1,4 @@
 neue Datei 1
 Fehler
+Ändern für das Stash-Beispiel
+Ändern für das Stash-Beispiel 2

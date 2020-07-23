@@ -1,5 +1,7 @@
 ## Änderung Dockerfile - git Übung hotfix
 ## Konflikt simulieren von Master aus
+## Noch eine Änderung in feature-abc-13-Docker um Konflikt zu simulieren
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
